@@ -1,4 +1,9 @@
 function intro(){
     console.log("hello world");
 }
-console.log("welcome")
+// console.log("welcome")
+
+function hi(){
+    console.log("hello")
+}
+hi()
