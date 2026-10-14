@@ -1,6 +1,5 @@
 function intro(){
     console.log("hello world");
-    console.log("This is branch 3");
 }
 // console.log("welcome")
 
