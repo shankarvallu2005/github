@@ -7,3 +7,6 @@ function hi(){
     console.log("hello")
 }
 hi()
+function bye(){
+    console.log("bye")
+}
