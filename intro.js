@@ -5,6 +5,7 @@ function intro(){
 
 function hi(){
     console.log("hello")
+    console.log("Buddy")
 }
 hi()
 function bye(){
