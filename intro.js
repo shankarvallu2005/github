@@ -3,7 +3,6 @@ function intro(){
     console.log("This is branch 3");
     console.log("This is branch2");
 }
-
 // console.log("welcome")
 
 function hi(){
