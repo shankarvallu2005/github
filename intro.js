@@ -4,7 +4,9 @@ function intro(){
     console.log("This is branch2");
 }
 // console.log("welcome")
-
+for(let i = 0; i<5; i++){
+    console.log(i + 1)
+}
 function hi(){
     console.log("hello")
     console.log("Buddy")
